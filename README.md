@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="start">Front-end Student </h3>
+<h1 align="center">Opa 👋, meu nome é Lucas ☕</h1>
+<h3 align="start">Front-end Jr</h3>
 
 <div align="left">
   <a href="https://github.com/LucasLuann">
