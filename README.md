@@ -13,7 +13,7 @@
 
 ##  🧠 Minha Stack
 
-Tecnologias que uso no dia a dia:
+Tecnologias e ferramentas que uso no dia a dia:
 
 <div align="center">
 
