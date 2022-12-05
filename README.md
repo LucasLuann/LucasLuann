@@ -51,7 +51,6 @@ Tecnologias que uso no dia a dia:
 
 </a>
 
-![Snake animation](https://github.com/LucasLuann/LucasLuann/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
