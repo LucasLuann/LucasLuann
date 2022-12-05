@@ -1,10 +1,9 @@
 <h1>Lucas Brito <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<strong>Desenvolvedor Front-end Jr</strong>
+
+<strong>Desenvolvedor Front-end Jr ☕</strong> 
 
 <p>Atualmente trabalho como desenvolvedor genexus(trainee) e estou cursando Análise e desenvolvimento de sistemas.</p>
-
 <p>Estou me especializando em JavaScript para atuar com ReactJS / VueJS.</p>
-
 <p>Ouvir música e jogar são meus hobbies 😃</p>
 
 <p>#NeverStopLearning 🚀</p>
