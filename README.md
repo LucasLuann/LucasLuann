@@ -2,9 +2,10 @@
 
 <strong>Desenvolvedor Front-end Jr ☕</strong> 
 
-<p>Atualmente trabalho como desenvolvedor genexus(trainee) e estou cursando Análise e desenvolvimento de sistemas.</p>
-<p>Estou me especializando em JavaScript para atuar com ReactJS / VueJS.</p>
-<p>Ouvir música e jogar são meus hobbies 😃</p>
+<p>Atualmente trabalho como desenvolvedor genexus(trainee) e estou cursando Análise e desenvolvimento de sistemas.
+   Estou me especializando em JavaScript para atuar com ReactJS / VueJS.
+   Ouvir música e jogar são meus hobbies 😃
+</p>
 
 <p>#NeverStopLearning 🚀</p>
 
@@ -34,14 +35,6 @@ Tecnologias que uso no dia a dia:
 <div style="display: inline_block"><br>
 </div>
 
-
-
-
-</div>
-
-
-
-<div>
 
 
 <a href="https://www.linkedin.com/in/lucas-brito18/" target="_blank">
