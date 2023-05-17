@@ -27,7 +27,7 @@ Tecnologias e ferramentas que uso no dia a dia:
 
 <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="150">
 
-<img src="[https://freebiehive.com/wp-content/uploads/2022/10/Google-flutter-logo-758x473.jpg](https://terminalroot.com.br/assets/img/dart/flutter-dart.jpg)" width="150">
+<img src="https://terminalroot.com.br/assets/img/dart/flutter-dart.jpg" width="150">
 
 </div>
 
