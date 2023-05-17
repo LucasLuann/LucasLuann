@@ -3,7 +3,7 @@
 <strong>Desenvolvedor Front-end Jr ☕</strong> 
 
 <p>Atualmente trabalho como desenvolvedor genexus(trainee) e estou cursando Análise e desenvolvimento de sistemas.
-   Estou me especializando em JavaScript para atuar com ReactJS / VueJS e Mobile (Flutter)
+   Estou me especializando em JavaScript para atuar com ReactJS / VueJS e Mobile (Dart / Flutter)
    Ouvir música e jogar são meus hobbies 😃
 </p>
 
