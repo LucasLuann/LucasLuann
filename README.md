@@ -16,35 +16,19 @@
 Tecnologias e ferramentas que uso no dia a dia:
 
 <div align="center">
-
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-
-<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
-
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-
-<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-
-<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="150">
-
-<img src="https://terminalroot.com.br/assets/img/dart/flutter-dart.jpg" width="150">
-
+   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
+   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+   <img src="https://terminalroot.com.br/assets/img/dart/flutter-dart.jpg" width="150">
 </div>
 
 ##
 
 <div style="display: inline_block"><br>
-</div>
-
-
-
-<a href="https://www.linkedin.com/in/lucas-brito18/" target="_blank">
-
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-
-</a>
-
-
+   <a href="https://www.linkedin.com/in/lucas-brito18/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+   </a>
 </div>
 
 ### Acesse o meu portfólio:
