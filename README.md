@@ -3,7 +3,7 @@
 <strong>Desenvolvedor Front-end Jr ☕</strong> 
 
 <p>Atualmente trabalho como desenvolvedor Genexus Jr e estou cursando Análise e desenvolvimento de sistemas.
-   Estou me especializando em JavaScript para atuar com ReactJS / VueJS e Mobile (Dart / Flutter)
+   Estou me especializando em JavaScript para atuar com ReactJS / VueJS e Mobile React Native.
    Ouvir música e jogar são meus hobbies 😃
 </p>
 
@@ -20,7 +20,6 @@ Tecnologias e ferramentas que uso no dia a dia:
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">
    <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-   <img src="https://terminalroot.com.br/assets/img/dart/flutter-dart.jpg" width="150">
 </div>
 
 ##
