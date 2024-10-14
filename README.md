@@ -2,10 +2,9 @@
 
 <strong>Desenvolvedor Front-end Jr ☕</strong> 
 
-<p>Atualmente trabalho como desenvolvedor Genexus Jr e estou cursando Análise e desenvolvimento de sistemas.
-   Estou me especializando em JavaScript para atuar com ReactJS / VueJS e Mobile React Native.
-   Ouvir música e jogar são meus hobbies 😃
-</p>
+<p>Atualmente estou trabalhando como Analista de processos e projetos Jr e estou cursando Análise e desenvolvimento de sistemas.</p>
+
+<p>Atuando com Typescript | ReactJS | Tailwind | Axios | ShadCN | Chakra UI</p>
 
 <p>#NeverStopLearning 🚀</p>
 
