@@ -1,8 +1,8 @@
 <h1>Lucas Brito <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<strong>Desenvolvedor Front-end Jr ☕</strong> 
+<strong>Desenvolvedor Front-end ☕</strong> 
 
-<p>Atualmente estou trabalhando como Analista de processos e projetos Jr e estou cursando Análise e desenvolvimento de sistemas.</p>
+<p>Atualmente estou trabalhando como Analista de processos e projetos e estou cursando Análise e desenvolvimento de sistemas.</p>
 
 <p>Atuando com Typescript | ReactJS | Tailwind | Axios | ShadCN | Chakra UI</p>
 
