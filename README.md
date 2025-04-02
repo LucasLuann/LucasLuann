@@ -23,6 +23,13 @@ Tecnologias e ferramentas que utilizo no dia a dia:
 
 ---
 
+<div align="center">
+  <img width="39%" height="200px" src="https://github-readme-stats.vercel.app/api?username=LUCASLUANN&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff"/>
+  <img width="57%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LUCASLUANN&theme=github_dark"/>
+</div>
+
+---
+
 ## 🌐 **Conecte-se comigo**  
 <div style="display: inline_block"><br>  
    <a href="https://www.linkedin.com/in/lucas-brito18/" target="_blank">  
@@ -34,6 +41,8 @@ Tecnologias e ferramentas que utilizo no dia a dia:
 </div>  
 
 ---
+
+
 
 ## 🚀 **Acesse o meu portfólio**  
 [https://lucasluann.github.io/](https://lucasluann.github.io/)  
