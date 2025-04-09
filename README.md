@@ -45,4 +45,4 @@ Tecnologias e ferramentas que utilizo no dia a dia:
 
 
 ## 🚀 **Acesse o meu portfólio**  
-[https://lucasluann.github.io/](https://lucasluann.github.io/)  
+https://lucasluann.vercel.app/
