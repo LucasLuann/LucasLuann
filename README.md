@@ -1,5 +1,5 @@
 # Lucas Brito <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
-## Desenvolvedor Fullstack 🚀
+## Desenvolvedor Fullstack 💻👨‍💻
 
 Atuo como Analista Desenvolvedor Fullstack, trabalhando no desenvolvimento de aplicações web completas, do front ao back-end.
 
