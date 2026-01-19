@@ -2,7 +2,7 @@
 **Desenvolvedor Front-End 🚀**  
 
 Meu objetivo é criar interfaces modernas, responsivas e acessíveis.
-Atualmente trabalho como **Analista Desenvolvedor Fullstack (.Net / ReactJS)** e estou cursando **Análise e Desenvolvimento de Sistemas**.  
+Atualmente trabalho como **Analista Desenvolvedor Fullstack (.Net / ReactJS)**.  
 
 Atuo com **TypeScript**, **ReactJS**, **Tailwind CSS**, **Axios** e **ShadCN**, com foco em entregar soluções funcionais e com ótima experiência do usuário (UI/UX).  
 Sempre em busca de novos aprendizados. **#NeverStopLearning ✨**  
