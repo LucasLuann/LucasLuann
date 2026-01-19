@@ -1,11 +1,13 @@
 # Lucas Brito <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
-**Desenvolvedor Front-End 🚀**  
+## Desenvolvedor Fullstack 🚀
 
-Meu objetivo é criar interfaces modernas, responsivas e acessíveis.
-Atualmente trabalho como **Analista Desenvolvedor Fullstack (.Net / ReactJS)**.  
+Atuo como Analista Desenvolvedor Fullstack, trabalhando no desenvolvimento de aplicações web completas, do front ao back-end.
 
-Atuo com **TypeScript**, **ReactJS**, **Tailwind CSS**, **Axios** e **ShadCN**, com foco em entregar soluções funcionais e com ótima experiência do usuário (UI/UX).  
-Sempre em busca de novos aprendizados. **#NeverStopLearning ✨**  
+Experiência com **React, Next.js, TypeScript, .NET, PostgreSQL**, além de bibliotecas de UI como **Tailwind CSS, MUI, Chakra UI e ShadCN**, aplicando boas práticas de UI/UX.
+
+Tenho facilidade em estudar documentação e integrar novas tecnologias conforme a necessidade do projeto.  
+Sempre em evolução. #NeverStopLearning ✨
+
 
 ![cat coding](https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif)  
 
